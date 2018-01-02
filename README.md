@@ -18,9 +18,9 @@ It responds on:
 * **!start**: registers a new channel
 * **!bet**: bot opens chat to you and type welcome words (channel chat)
 * **!_color_**: bet on a color (ex. !red). You can type !red 10 and that means you bet 10 coins on red color. That stands for all other colors. (private chat)
-* **!status**: TO DO In 3.0 v
-* **!help**: TO DO In 3.0 v
-* **!redeem**: TO DO In 3.0 v
+* **!status**: TO DO In 3.0v
+* **!help**: TO DO In 3.0v
+* **!redeem**: TO DO In 3.0v
 
 ### Can I customize win rates and other?
 That can be done in file config.php
